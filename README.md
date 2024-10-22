@@ -15,8 +15,8 @@ The ToDo Backend uses the Atlas MongoDB Database to Add, Modify, Delete ToDos
 Credentials of the database are in the .env file
 
 ### Routes
+GET: `http://localhost:3000/todos`
 To retrieve the list of ToDos
-GET: `http://localhost:3000/todos`   
 
 POST: `http://localhost:3000/todos`   
 To Add/Save a ToDo in the Database, pass the following in the Request Body
