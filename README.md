@@ -4,7 +4,7 @@ Backend system for the ToDo Application
 ### Tech Stack 
 RESTful API using Node.js, Express, Mongoose
 ## Features
-- Modular Code 
+- Modular, Clean Code 
 - Validation has been done for all the routes
 - DB Model has been creates=d for saving the data
 - Added a Utility function for Code Reusability and exposed it for validation
