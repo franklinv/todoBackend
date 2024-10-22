@@ -12,6 +12,7 @@ RESTful API using Node.js, Express, Mongoose
 
 ### Database
 The ToDo Backend uses the Atlas MongoDB Database to Add, Modify, Delete ToDos
+
 Credentials of the database are in the .env file
 
 ### Routes
