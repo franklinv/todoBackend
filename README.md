@@ -6,7 +6,7 @@ RESTful API using Node.js, Express, Mongoose
 ## Features
 - Modular, Clean Code 
 - Validation has been done for all the routes
-- DB Model has been creates=d for saving the data
+- DB Model has been created for saving the data
 - Added a Utility function for Code Reusability and exposed it for validation
 - Added comments
 
